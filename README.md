@@ -2,7 +2,7 @@
 
 > 输入任意人名，自动生成精美的人物专题学习网站。
 
-**在线演示：** [埃隆·马斯克专题页](https://diiywuyan.github.io/person-wiki/output/埃隆_马斯克.html)
+**在线演示：** [埃隆·马斯克专题页](https://diyiwuyan.github.io/person-wiki/output/%E5%9F%83%E9%9A%86_%E9%A9%AC%E6%96%AF%E5%85%8B.html)
 
 ![预览](https://img.shields.io/badge/demo-live-brightgreen) ![Python](https://img.shields.io/badge/python-3.8+-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
