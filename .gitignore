@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# 用户私有配置（含 API Key，不要上传真实 key）
+# user_config.json 已替换为示例，可以上传
+
+# 输出缓存（原始采集数据，体积大）
+output/cache/
+
+# 临时探测脚本
+probe_*.py
+test_*.py
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
